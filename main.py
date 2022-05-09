@@ -25,5 +25,5 @@ while True:
         elif choice == '4':
            print(number1, "/", number2, "=", divide(number1, number2))
         break
-     else:
+    else:
          print("Entered input is invalid")
